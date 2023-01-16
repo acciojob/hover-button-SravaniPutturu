@@ -1,11 +1,14 @@
 
 /* Your CSS Code here. */
-.H{
-	background-color:black;
+.H:link{
 	color:white;
-	border-radius:5px;
+	background-color:black;
 }
 .H:hover{
+	color:black;
+	background-color:yellow;
+}
+.H:{
 	background-color:yellow;
 	color:black;
 	border-radius:30px;
